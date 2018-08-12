@@ -58,6 +58,8 @@ a {
     float: left;
     max-width: 200px;
     text-align: left;
+    max-width: 50%;
+    width: 100%;
     clear: both;
 }
 
