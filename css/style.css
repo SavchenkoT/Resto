@@ -212,7 +212,7 @@ a {
     font-size: 12px;
 }
 
-.btn{
+.btn {
     display: block;
     width: 100%;
     max-width: 200px;
@@ -280,7 +280,7 @@ a {
     float: left;
 }
 
-.line{
+.line {
     display: inline-block;
     min-width: 65px;
     max-width: 200px;
@@ -312,6 +312,7 @@ a {
 .block, .box:last-of-type{
     margin-right: 0;
 }
+
 .sb-box {
     width: 100%;
     overflow: auto;
